@@ -12,3 +12,6 @@ Webapp
 The basic things work, but the main part doesn't now. Doing things too quickly I made some mistake and something is broken, so I'm submitting so you can go through the code to see the general idea of what I was trying to do.
 
 Thanks
+
+Oh yes:
+ps. you can clone the dir, >cd public, >firebase serve --only hosting, and see it on localhost:3000 or http://algotrack.web.app
